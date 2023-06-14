@@ -1,0 +1,21 @@
+.container {
+  width: 400px;
+  margin: 0 auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+}
+
+.btn {
+  display: block;
+  margin: 10px auto;
+}
